@@ -1,0 +1,3 @@
+[
+	{"title":"mCustom Device Samini","type":"unknown","user-agent":"","capabilities":["mobile","touch"],"screen":{"device-pixel-ratio":0,"vertical":{"width":1280,"height":780},"horizontal":{"width":780,"height":1280}},"modes":[{"title":"","orientation":"vertical","insets":{"left":0,"top":0,"right":0,"bottom":0}},{"title":"","orientation":"horizontal","insets":{"left":0,"top":0,"right":0,"bottom":0}}],"show-by-default":true,"dual-screen":false,"show":"Always","user-agent-metadata":{"brands":[{"brand":"","version":""}],"fullVersionList":[{"brand":"","version":""}],"fullVersion":"","platform":"","platformVersion":"","architecture":"","model":"","mobile":true}}
+]
